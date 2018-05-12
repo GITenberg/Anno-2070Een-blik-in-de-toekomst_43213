@@ -1,0 +1,27 @@
+_repo: Anno-2070Een-blik-in-de-toekomst_43213
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43213-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Dioscorides, Dr.
+    alias: Harting, Pieter
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '42073'
+    url: http://www.gutenberg.org/2009/agents/42073
+description: ''
+gutenberg_issued: '2013-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43213'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+title: 'Anno 2070: Een blik in de toekomst'
+url: http://www.gutenberg.org/ebooks/43213
